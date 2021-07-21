@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "managementendpoint.shutdown.enabled",
+      "type": "java.lang.String",
+      "description": "Description for managementendpoint.shutdown.enabled."
+  }
+] }
